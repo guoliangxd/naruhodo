@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Naruhodo&#39;s ink</title>
+    <link>https://guoliangxd.github.io/naruhodo/</link>
+    <description>Recent content on Naruhodo&#39;s ink</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 01:03:55 +0800</lastBuildDate><atom:link href="https://guoliangxd.github.io/naruhodo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://guoliangxd.github.io/naruhodo/posts/my-first-post/</link>
+      <pubDate>Thu, 02 Feb 2023 01:03:55 +0800</pubDate>
+      
+      <guid>https://guoliangxd.github.io/naruhodo/posts/my-first-post/</guid>
+      <description>blog test </description>
+    </item>
+    
   </channel>
 </rss>
